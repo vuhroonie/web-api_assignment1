@@ -23,10 +23,13 @@ Function Explanation:
 7. Compare Weather Conditions Between Two Locations - compares the temperatures and conditions between two specified locations and displays temperature & condition differences. 
 
 Application Test:
+
 Step 1: Open integrated terminal at folder
 
 Step 2: Type node Vaaruni_WeatherNode.js
+
 Step 3: Press 'Enter' Key
+
 Step 4: Using the functions provided, test out the App
 
 
