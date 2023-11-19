@@ -13,7 +13,7 @@ My Node Module consists of 8 functions:
 - Add Location
 - Compare Weather Conditions Between Two Locations
 
-Function Explanation:
+Function Explanation & What To Expect:
 1. Weather Summary - Gives you a summary of the Locations, Temperatures & Conditions in the main weather list 
 2. Current Weather at Location - Gives you the temperature and condition at the specified location
 3. Temperature Trend at Location - Gives you the temperature trend at the specified location
@@ -23,14 +23,7 @@ Function Explanation:
 7. Compare Weather Conditions Between Two Locations - compares the temperatures and conditions between two specified locations and displays temperature & condition differences. 
 
 Application Test:
-
-Step 1: Open integrated terminal at folder
-
-Step 2: Type node Vaaruni_WeatherNode.js
-
-Step 3: Press 'Enter' Key
-
-Step 4: Using the functions provided, test out the App
-
-
-
+1. Open integrated terminal at folder
+2.  Type node Vaaruni_WeatherNode.js
+3. Press 'Enter' Key
+4. Using the functions provided, test out the App
