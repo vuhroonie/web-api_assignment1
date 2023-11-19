@@ -1,6 +1,6 @@
 Vaaruni's Assignment 1
 
-About this Node Module
+About this Node Module:
 This module is a Weather Logging & Tracking System.
 
 My Node Module consists of 8 functions: 
